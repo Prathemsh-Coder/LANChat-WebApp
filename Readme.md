@@ -247,3 +247,4 @@ It does not use HTTPS or authentication, so it should not be deployed on public 
 MIT License — free to use and modify.
 
 ---
+Updated by Prathemsh-Coder
