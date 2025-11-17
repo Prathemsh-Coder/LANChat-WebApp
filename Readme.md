@@ -1,5 +1,19 @@
 # 🌐 LAN Chat Room – JSP + WebSocket + Custom Data Structures
 
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Java%2017-orange?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Server-Apache%20Tomcat%2010-blue?style=for-the-badge&logo=apachetomcat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-JSP%20%7C%20HTML%20%7C%20CSS%20%7C%20JS-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/WebSockets-Jakarta%20EE%20-blue?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Custom%20DS-Linked%20List%20%7C%20Queue%20%7C%20Dynamic%20Array-success?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgaGVpZ2h0PSIyNCIgd2lkdGg9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDEuNUM3Ljg2OCAxLjUgNCA1LjM2OCA0IDEwLjVDNCAxNS42MzIgNy44NjggMTkuNSAxMiAxOS41UzIwIDE1LjYzMiAyMCAxMC41QzIwIDUuMzY4IDE2LjEzMiAxLjUgMTIgMS41em0wIDE3QyA5LjI3NiAxOC41IDEgNy41NzYgMSA3LjU3NiAxLjcyNCAxMS4xNDQgNC4yMjQgMTMuNzU2IDUuNzIgMTQuNzY0YTQgNCAwIDAgMCA0LjU2OCAwYyAxLjQ5Ni0xLjAwOCA0LTQuOTIgNC02LjIwNHYtLjAwMmMwIDAgMCAwIDAgMCAwIDIuMDA4LTMuNzY4IDYuNzk2LTQgNy4yNDQtMS40NzYgMS4yNzItMy43NTYgMi42NDQtNiA0eiIvPjwvc3ZnPg==" />
+  <img src="https://img.shields.io/badge/Platform-LAN%20%2F%20Hotspot-critical?style=for-the-badge&logo=wifi&logoColor=white" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
+</p>
+
+
+
 A real-time LAN-based chat system built using **Java**, **JSP**, and **WebSockets**, supported by fully custom **Data Structures** (Linked List, Queue, Dynamic Array).  
 The application works on any devices connected to the **same LAN / Hotspot**, without needing any database or external backend.
 
